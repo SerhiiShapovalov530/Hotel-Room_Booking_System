@@ -45,7 +45,3 @@ Hello 👋, I'm <strong>Samiur Rahman Mukul</strong>. In this repository i will 
 
 [admin-panel-link]: https://admin-beach-resort.vercel.app
 [frontend-link]: https://mukul-beach-resort.vercel.app
-
-<p align="center">
-  <strong> HAPPY DEVELOPMENT 😀 & I LOVE PROGRAMMING 💖 </strong>
-</p>
